@@ -8,3 +8,6 @@ HR liked my profile. manager i was supposed to talk to cancelled our call minute
 
 - exciting brazilian fintech
 super cool company. very modern and small. interesting stack. very challenging backend work to be done. unfortunately not aligned with my strengths.
+
+- international position
+got referred straight to a tech recruiter by a friend. i fit all 11 qualifications. except time of experience, which they ask for 4+. I have around 2.5. i got instantly filtered out. i tried to argue my case, let's see how it goes.
