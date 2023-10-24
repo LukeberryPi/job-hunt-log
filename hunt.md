@@ -32,3 +32,7 @@ i just interviewed with her. she felt unmotivated. she made many questions that 
 i had another meeting today! talked to a person i admire a lot. he's the co-founder of a brazilian startup called Cumbuca. it is a fintech with solutions in splitting payments with friends/family. excellent chat. unfortunately, this position is closer to a Mid-level Backend Engineer. they use elixir, react native, typescript and are < 25 employees at the moment. even though this isn't exactly my profile, i accessed the code challenge for the position to play around with and maybe learn some elixir. this is definitely a company i would work for in the future.
 
 yesterday i saw a twitter post with a position that asked for typescript, javascript, react, native english and portuguese. exactly my profile. a friend had just interviewed for the position but wasn't interested, so i asked him to send my contact to the recruiter. i got contacted via whatsapp to schedule a quick call and was asked to send cv + linkedin. unfortunately, i got disqualified immediately for insufficient years of experience, they were looking for someone with 4+ years, whereas i only have about 2.5. unlucky.
+
+i just received an email stating that i have been rejected from the consulting firm position. i'm glad since i can do better.
+
+i have a strong referral from a close friend to work at a multinational clothing brand. it is for a position he has worked on for a year and will leave soon. mid-level frontend engineer with React, Typescript and some Shopify proprietary stuff. excited.
