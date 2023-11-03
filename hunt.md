@@ -36,3 +36,7 @@ yesterday i saw a twitter post with a position that asked for typescript, javasc
 i just received an email stating that i have been rejected from the consulting firm position. i'm glad since i can do better.
 
 i have a strong referral from a close friend to work at a multinational clothing brand. it is for a position he has worked on for a year and will leave soon. mid-level frontend engineer with React, Typescript and some Shopify proprietary stuff. excited.
+
+this position didn't work out. i rescheduled the talk with the recruiter. on the day of our conversation, she said they have cancelled the position. hence, there is no point in continuing with the process.
+
+a few days ago, i got contacted directly on whatsapp by someone asking if i was a dev, i said "yes i am!". they saw my portfolio and said that the technologies i use are a great fit for a role on their company. very excited for this contact. i will talk to them this afternoon. fairly excited!
