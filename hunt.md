@@ -40,3 +40,7 @@ i have a strong referral from a close friend to work at a multinational clothing
 this position didn't work out. i rescheduled the talk with the recruiter. on the day of our conversation, she said they have cancelled the position. hence, there is no point in continuing with the process.
 
 a few days ago, i got contacted directly on whatsapp by someone asking if i was a dev, i said "yes i am!". they saw my portfolio and said that the technologies i use are a great fit for a role on their company. very excited for this contact. i will talk to them this afternoon. fairly excited!
+
+this conversation turned out to be with the owner-ish of a set of companies between architecture, tech consulting, and others. the chat went well, it appears they work in a very informal setting. there was no "real" hiring process. he had heard of me and seen my portfolio, wanted to chat to see if i was interested and was ready to set me up for a project. he mentioned they use nest.js and graphql heavily. the call ended with the promise that he'd send me a project the following week.
+
+as the call ended and i studied the documentation of both nest and gql, i felt less and less confident on this project, as well as uncertain about most details regarding the job, which to this point i assumed to be a freelance opportunity. i didn't know what the project was, how was i going to be hired (if i would need to open a brazilian CNPJ), if i would work on a team or by myself. this led to me calling the guy and saying i would not continue in the "process".

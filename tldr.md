@@ -16,4 +16,4 @@ got referred straight to a tech recruiter by a friend. i fit all 11 qualificatio
 direct referral by a friend who worked at the position and will resign soon. will talk with HR in a few days. it strongly aligns with my profile, very excited. recruiter said that the position got cancelled. they will not be hiring.
 
 - mysterious whatsapp referral
-contacted by a dev directly on whatsapp, that liked my portfolio and wants to talk to me.
+contacted by a dev directly on whatsapp, that liked my portfolio and wants to talk to me. no process, not much info. feels borderline scammy, i opted out.
